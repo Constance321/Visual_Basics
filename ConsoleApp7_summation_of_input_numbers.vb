@@ -1,3 +1,7 @@
+
+'a program that reads in numbers until a -1 is entered and prints the average of all numbers entered with a comma thousand separator
+'and two decimal places.
+
 Imports System
 
 Module Program
