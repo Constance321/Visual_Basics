@@ -1,3 +1,5 @@
+'a console program that reads in a number and prints the date that number of days from now in this format: Saturday, March 06, 2023.
+
 Imports System
 
 Module Program
