@@ -1,2 +1,2 @@
 # Visual_Basics
-a VBA console program that reads in a number and prints the date that number of days from now in this format: Saturday, February 06, 2021.
+The attached code is a representation of my journey in learning Visual Basic, By sharing this code, I hope to receive feedback and suggestions from others to improve my skills and to contribute to the programming community.
